@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73230298504",
+    "project_id": "alzheimer-detection-ef445",
+    "storage_bucket": "alzheimer-detection-ef445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73230298504:android:615382febcca0799985e3d",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73230298504-ti6j53vvmh2tmobvhvm44b6u736m7dpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZOUTFZqZunvZYZBgAf3Ofgq5nxX-G5Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73230298504-ti6j53vvmh2tmobvhvm44b6u736m7dpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
